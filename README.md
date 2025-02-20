@@ -5,7 +5,6 @@ This is a project for EasyA x Consensus Hackathon 2025.
 This is an AI agent helping users diagest YouTube videos about investment strategy and deploy user's trading operation on Merkle Trade.
 
 - What blockchain is it on? Aptos
-- What problem does it solve? 
 - What are stacks related? #Nextjs #Langchain #Python #TypeScript #MerkleSDK #MovemAgentKit
 
 ## About Aptos
