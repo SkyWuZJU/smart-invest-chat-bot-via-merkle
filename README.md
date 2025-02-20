@@ -1,11 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a project for EasyA x Consensus Hackathon 2025.
 
-## Getting Started
+## Overview
 
-In the root directory, install dependencies by running `pnpm i`.
+This is an AI agent helping users diagest YouTube videos about investment strategy and deploy user's trading operation on Merkle Trade.
 
-In the `examples/chat-agent` directory, install dependencies by running `pnpm i`.
+- What blockchain is it on? Aptos
+- What problem does it solve? 
+- What are stacks related? #Nextjs #Langchain #Python #TypeScript #MerkleSDK
 
-Make a copy of `.example.env` and rename it to `.env` and fill in your own API keys.
+## About Aptos
+The AI can do operations on Apots and read datas from Aptos blockchain.
 
-Run `npm run dev` to start the development server.
+## About Merkle Trade
+User's final investment descision will be placed on Merkle Trade. Basically the AI extract all params required for a Merkle order from user input and strategy from YouTube. The we exececute the order on the backend.
+
+## About AI
+AI summarize the trading strategy from YouTube videos. We make it by transfering the audios in the video to text. 
