@@ -6,7 +6,7 @@ This is an AI agent helping users diagest YouTube videos about investment strate
 
 - What blockchain is it on? Aptos
 - What problem does it solve? 
-- What are stacks related? #Nextjs #Langchain #Python #TypeScript #MerkleSDK
+- What are stacks related? #Nextjs #Langchain #Python #TypeScript #MerkleSDK #MovemAgentKit
 
 ## About Aptos
 The AI can do operations on Apots and read datas from Aptos blockchain.
